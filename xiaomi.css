@@ -1,0 +1,78 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+	color: #B0B0B0;
+}
+li{
+	list-style: none;
+}
+#banner-top{
+	height: 40px;
+	background-color: #333333;
+	margin: 0 auto;
+}
+#banner-top-Text{
+	width: 96%;
+	margin: 0 auto;
+	line-height: 40px;
+	font-size: 12px;
+	position: relative;
+}
+#banner-top li{
+	float: left;
+	list-style: none;
+	margin-left: 20px;
+	line-height: 40px;
+}
+#banner-top-Text a:hover{
+	color: white;
+}
+.banner-top-righrText-right{
+	position: absolute;
+	right: 140px;
+}
+.banner-top-righrText-right-shoppingcar{
+	width: 120px;
+	height: 40px;
+	position: absolute;
+	right: 0;
+	background-color:rgba(125,125,125,0.5);
+}
+.banner-top-righrText-right-shoppingcar img{
+	width: 20px;
+	height: 20px;
+	margin-top: 10px;
+}
+#banner-center{
+	background-color: white;
+		height: 100px;
+}
+.banner-cener-right{
+	width: 96%;
+	height: 100px;
+	border: 1px solid red;
+	margin: 0 auto;
+}
+#banner-center-right-img{
+	width: 55px;
+	height: 55px;
+	/* overflow: hidden; */
+	border: 1px solid red;
+	margin-top: 23px;
+}
+.banner-cener-right-img-box{
+	width: 200%;
+	height: 55px;
+;
+}
+#banner-center-right-img img{
+	width: 55px;
+	height: 100%;
+}
+#banner-center-right-img li{
+	float: left;
+}
+
